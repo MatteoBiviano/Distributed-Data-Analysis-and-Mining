@@ -3,3 +3,6 @@ Project for the Distributed Data Analysis and Mining exam. The dataset provided 
 
 # Project Brief
 The Project is divided in 4 parts: Understanding/Preparation, Clustering, Classification, Methodology Comparison. The goal is to compare the performance between two methodology for target classification: trivial classifier (in particular the DecisionTree) vs a DecisionTree applied after a KMeans clustering. Each part of the project is done in spark in order to work in a distributed environment
+
+# Collaboration
+Slides in "Presentazione", made by Andrea Biviano (@biv93), show a brief overview of the project and the results obtained
